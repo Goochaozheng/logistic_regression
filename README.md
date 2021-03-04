@@ -1,5 +1,4 @@
 # Logistic Regression
-2031561 Chaozheng Guo  
 Python implementation of logistic regression.  
 
 ### Packages reqired
